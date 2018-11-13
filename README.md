@@ -37,7 +37,7 @@ We also tested 3 drivers to read Sentinel-2 Jpeg2000 dataset:
 - JP2ECW 💰
 
 
- | CBERS | LANDSAT | S2 (JP2OpenJPEG) | S2 (JP2KAK) | S2 (JP2ECW)
+- | CBERS | LANDSAT | S2 (JP2OpenJPEG) | S2 (JP2KAK) | S2 (JP2ECW)
 --- | --- | ---    | ---              | ---         | ---        
 **HTTP call** (Z12) | 5 | 5 | 118 | 64 | 115
 **Bytes transfered** (Z12) | 53 035 | 1 722 986 | 3 920 804 | 1 310 720 | 2 741 156
@@ -297,7 +297,7 @@ Nb Http calls: 105
 
 ## What about COGs
 
- | CBERS | LANDSAT | S2
+- | CBERS | LANDSAT | S2
 --- | ---   | ---  | ---      
 **HTTP call** (COG) | 5 | 5 | 3
 **Bytes transfered** (COG) | 34 527 | 706 810 | 801 176
