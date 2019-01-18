@@ -7,7 +7,7 @@ $ git clone http://github.com/vincentsarago/awspds-benchmark
 $ test-pds-open
 
 # Test with proprietary drivers (KDU, ECW)
-$ make test-pds-s2-evil
+$ make test-pds-evil
 ```
 
 
